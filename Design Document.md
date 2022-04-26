@@ -8,8 +8,9 @@ Implementing a second use case for observers to show that core functionality is 
 
 Below is the UML sequence diagram representing how this functionality works:
 https://github.com/nikhilakaleru/SA_FinalProject/blob/master/design%20doc%20images/Sequential_page-0001.jpg
+![Sequential_page-0001](https://user-images.githubusercontent.com/41305091/165268027-52bb91e3-45d7-4572-82bd-b7395a191f75.jpg)
 
 
 Below is the UML class diagram representing how this functionality works:
 https://github.com/nikhilakaleru/SA_FinalProject/blob/master/design%20doc%20images/UMLClass%20DiagramCapture.JPG
-
+![UMLClass DiagramCapture](https://user-images.githubusercontent.com/41305091/165268077-a36d4e24-557a-4d34-a4f0-e238c5af6f30.JPG)
